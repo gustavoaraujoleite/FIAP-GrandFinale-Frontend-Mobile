@@ -1,4 +1,9 @@
 # FIAP-GrandFinale-Frontend-Mobile
 
 ## INSTALAÇÂO (NECESSSÁRIO)
-# npm install 
+
+Para instalação de dependências:
+```bash
+npm install
+
+```
